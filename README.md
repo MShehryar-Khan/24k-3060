@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on:projects
 - 📫 How to reach me:Through my email
 
-  ![WhatsApp Image 2024-07-21 at 22 44 00](https://github.com/user-attachments/assets/3e96772b-cba5-4141-b0ff-eb827bac1326)
+  <img src="https://github.com/user-attachments/assets/3e96772b-cba5-4141-b0ff-eb827bac1326" width="200"/>
